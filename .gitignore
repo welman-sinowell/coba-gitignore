@@ -1,0 +1,6 @@
+# don't inc\lude these files and folder to git :
+config.txt
+data/
+# don't include files dengan ekstensi 
+*.exe
+*.pdf
